@@ -13,7 +13,7 @@ This App helps to scrap the reviews of products and lists down the Name of the r
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/vijethmoudgalya/Flipkart-Scrapper.git
 ```
 
 Go to the project directory
